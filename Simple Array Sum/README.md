@@ -2,12 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-Given an array of integers, find the sum of its elements.
-
-For example, if the array ar= [1,2,3] so return 6
-
 ## 🥚 Input 🥚
 
 ```

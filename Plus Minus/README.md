@@ -2,10 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with places after the decimal.
-
 ## 🥚 Input 🥚
 
 ```
